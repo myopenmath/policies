@@ -55,7 +55,7 @@ We do not permit third party advertising networks or other third parties to coll
 a. *Use*.
 We use your Personal Data and Usage Data (together, “**User Information**”) to operate, maintain, and provide to you the features and functionality of the Desmos Services and for related business purposes.
 We may use your User Information to (a) improve the quality and design of the Desmos Services and to create new features and services by storing, tracking, and analyzing user preferences; (b) remember information so that you will not have to re-enter it during your visit or the next time you use the Desmos Services; (c) provide custom, personalized content and information; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) diagnose and fix technology problems and otherwise plan for and enhance our Service.
-Desmos may provide personalized content and information to our users, including teachers, school administration officials, and other users associated with Schools. However, Desmos shall never use Student Data to engage in targeted advertising, nor shall Desmos direct advertising to student users on student.desmos.com, nor shall Desmos ever use any 3rd-party advertising network on any Desmos Service.
+Desmos may provide personalized content and information to our users, including teachers, school administration officials, and other users associated with Schools. However, Desmos shall never use Student Data to engage in targeted advertising, nor shall Desmos direct advertising to student users on student.desmos.com, nor shall Desmos ever use any third-party advertising network on any Desmos Service.
 
 b. *Communications Preferences*.
 We will not use your email address or other Personally Identifiable Information to send you marketing messages unless you provide your consent, or as part of a specific program or feature for which you will have the ability to opt-out.
@@ -85,12 +85,12 @@ d. *Other Required Sharing*.
 We may share User Information: (i) if required to do so by law, or in the good-faith belief that such action is in compliance with state and federal laws (including, without limitation, copyright laws) or in response to a court order, subpoena, legal process or search warrant, or (ii) if we believe, in good faith, such action is appropriate or necessary to enforce our Terms of Service, to exercise our legal rights, to take precautions against liability, to investigate and defend ourselves against any claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Desmos Services, and to protect the rights, property, or personal safety of Desmos, Education Providers, our users or third parties.
 
 e. *School Collaboration*.
-For Schools utilizing our School Collaboration functionality, teacher and school administration officials ("Admins") may be able to share information, resources, and materials through the School Collaboration Features.
+For Schools utilizing our School Collaboration functionality, school administration officials ("Admins") and teachers may be able to share information, resources, and materials through the School Collaboration Features.
 Depending on School’s use of various features of the Service, an Admin may be able to share information with other Admins and/or invite other Admins to access, review, and edit School material.
 Sharing functionality will be determined by the School settings.
 
 f. *Sharing of Student Work*.
-In some instances, Student Data or a student's response to a prompt (collectively "Student Work") may be visible to other students in the same classroom. A teacher or school administration official will be able to monitor any such Student Work, and will be able to hide it at their discretion, for example if said Student Work is in violation of a school's policies or the teacher's desired classroom culture.
+In some instances, Student Data, including, for example, student's response to a prompt, (collectively "Student Work") may be visible to other students in the same classroom. A teacher or school administration official will be able to monitor any such Student Work, and will be able to hide it at their discretion, for example if said Student Work is in violation of a school's policies or the teacher's desired classroom culture.
 
 g. *Merger or Sale*.
 If we merge, sell, or otherwise transfer all or a portion of our business, we will not transfer your Personally Identifiable Information without first giving you the ability to opt-out of the transfer, unless the new owner intends to maintain and provide the applicable Desmos Services as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own.
