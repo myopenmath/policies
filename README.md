@@ -1,12 +1,14 @@
-Desmos Terms and Policies
+MyOpenMath Terms and Policies
 =========================
 
-This repository contains the various terms and policies used by [Desmos](https://www.desmos.com) providing a historical record of changes and planned future changes. It was inspired by [Clever](https://clever.com)'s Terms and Policies, available [here](https://github.com/Clever/policies).
+THIS IS A WORK IN PROGRESS, AND DOES NOT YET REFLECT THE ACTUAL POLICIES OF MYOPENMATH.
+
+This repository contains the various terms and policies used by MyOpenMath providing a historical record of changes and planned future changes. It was inspired by [Clever](https://clever.com)'s Terms and Policies, available [here](https://github.com/Clever/policies), and Desmos's Terms and Policiies, available [here](https://github.com/desmosinc/policies).
 
 
 HOWTO: Open source your company's policies
 ==========================================
-1. [Create your own repository](https://github.com/new) named *policies* or [fork ours](https://github.com/desmosinc/policies#fork-destination-box).
+1. [Create your own repository](https://github.com/new) named *policies* or fork ours.
 
 2. Add your current policies to the repository:
   - Include your Terms of Service, Privacy Policy, and other policy documents that relate to schools, students, and teachers using your service.
