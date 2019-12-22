@@ -38,6 +38,9 @@ and a calendar.
 By using the MyOpenMath Services, you agree to be bound by these Terms and to the collection and use of your information as described in our [Privacy Policy](/privacy).
 If you do not agree to these Terms, you are not permitted to use the MyOpenMath Services.
 
+MyOpenMath does not provide direct student support.
+Instructor technical support is provided by volunteers and the user community through forums; no direct instructor support is provided.
+
 <h2 id="eligibility">2. Eligibility and Authority</h2>
 
 If you are agreeing to these Terms on behalf of a school, school district, or other educational institution (collectively, a “**School**”) for the purpose of having students access a course
@@ -132,6 +135,8 @@ b. not to use the MyOpenMath Services to:
 <h2 id="use">5. Personal, Non-Commercial Use Only</h2>
 
 You agree to use the MyOpenMath Services only (a) as an end user, for your personal, non-commercial use or (b) as a teacher, for academic use by you and your students in individual classes.
+
+You may not use or access MyOpenMath for any commercial purpose, including using or accessing the site for the purpose of providing paid support to other users. You may not promote MyOpenMath in a way that implies that you control or own the site.
 
 <h2 id="user-submissions">6. User Submissions and Generated Materials</h2>
 
