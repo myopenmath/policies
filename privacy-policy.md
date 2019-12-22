@@ -1,17 +1,14 @@
 # Privacy Policy
 
-Desmos, Inc. (“**we**” or “**Desmos**”) is committed to protecting your privacy.
-This Privacy Policy describes our collection and use of personal information collected from visitors to our website and our mobile application(s) (collectively, our “**Service**”), including the Service offered at www.desmos.com, teacher.desmos.com, student.desmos.com and any other website, app, or online service which links to this Privacy Policy.
+MyOpenMath (“**we**” or “**MyOpenMath**”) is committed to protecting your privacy.
+This Privacy Policy describes our collection and use of personal information collected from visitors to our website (our “**Service**”), including the Service offered at www.myopenmath.com, www.wamap.org and any other website, app, or online service which links to this Privacy Policy.
 "**You**" or “**your**” means a visitor or a user (whether logged in or not) of our Service.
 
 **A note about Student Data:**
-Our Desmos Service may be used by schools, school districts, or teachers (collectively referred to as “**Schools**”) in a classroom setting.
-When Desmos contracts with a School to provide the Service through student.desmos.com to students in a classroom (“**Students**”), we may have access to Student Data (defined below).
-This Privacy Policy does not govern our access to Student Data.
-We consider Student Data to be highly confidential and our use of Student Data is governed by our agreements with the schools.
-Please see our [Student Data Privacy Statement](/studentdata) for information about how we collect and use Student Data gathered during the provision of the Desmos Service to Schools.
+Our MyOpenMath Service may be used by schools, school districts, or teachers (collectively referred to as “**Schools**”) in a classroom setting. When MyOpenMath provides the Service to students in a classroom (“**Students**”), we may have access to Student Data (defined below).This Privacy Policy does not govern our access to Student Data. We consider Student Data to be highly confidential.
+Please see our [Student Data Privacy Statement](/studentdata) for information about how we collect and use Student Data.
 
-This Privacy Policy is incorporated into and is subject to our [Terms of Service](/terms), which governs your use of the Desmos Services.
+This Privacy Policy is incorporated into and is subject to our [Terms of Service](/terms), which governs your use of the MyOpenMath Services.
 
 Click on the links below to jump to subsection of this Privacy Policy.
 
@@ -28,24 +25,23 @@ Click on the links below to jump to subsection of this Privacy Policy.
 <h2 id="information-collected">1. Information Collected</h2>
 
 a. *Personal Data*.
-You can use the Service without registering for an account or providing any other personal data.
-If you create an account on the Desmos Services, or communicate with Desmos, you may provide to Desmos certain information by which someone could personally identify you, such as your name, email or unique username (“**Personally Identifiable Information**”), as well as information about yourself such as your employment or level of schooling by which someone could not personally identify you (“**Demographic Information**”).
+If you create an account on the MyOpenMath Services, or communicate with MyOpenMath, you may provide to MyOpenMath certain information by which someone could personally identify you, such as your name, email or unique username (“**Personally Identifiable Information**”), as well as information about yourself such as your employment by which someone could not personally identify you (“**Demographic Information**”).
 When we link Demographic Information to your Personally Identifiable Information, we treat all of it as Personally Identifiable.
-We also collect information when you save or post content to the Service (“**User Content**”), authorize us to access your device camera and photo roll, and communicate with us.
+We also collect information when you save or post content to the Service (“**User Content**”) and communicate with us.
 We refer to all of this data collectively as “Personal Data”.
 We may also collect Personal Data about you from a third party Internet site or service.
-For example, if you login to your Desmos account through Google or another authentication tool, or if you interact with Desmos on social media, we may collect the Personal Data you authorize that third party service to share.
+For example, if you login to your MyOpenMath account through an LTI connection from a Learning Management System, we may collect the Personal Data that third party service shares.
 
 b. *Usage Data*.
-We automatically collect certain technical usage information when you use the Desmos Services (“**Usage Data**”).
-Usage Data includes the information that your web browser or mobile application automatically sends to our servers whenever you visit.
+We automatically collect certain technical usage information when you use the MyOpenMath Services (“**Usage Data**”).
+Usage Data includes the information that your web browser automatically sends to our servers whenever you visit.
 The Usage Data collected in our logs may include information such as your web request, Internet Protocol address, operating system, browser type, browser language, referring / exit pages and URLs, platform type, click history, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and whether you opened an email.
 Typically, this information is collected through log files, web beacons, browser cookies, or other device identifiers that may uniquely identify your browser or device.
-You may be able to set your web browser to refuse all cookies, and your mobile device to not provide your mobile device identifier.
-You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers.
+You may be able to set your web browser to refuse all cookies.
+You may not be able to delete or disable cookies on certain browsers.
 For more information on cookies, visit [www.allaboutcookies.org](//www.allaboutcookies.org).
-Remember, some features of the Desmos Services may not function properly if cookies or mobile device identifiers are not enabled.
-In addition, the Desmos Services may use third party analytics and bug tracking software (including, without limitation, Google Analytics and Bugsnag) to collect further Usage Data regarding the online usage patterns of our users and bugs in our Services.
+Remember, the MyOpenMath Services may not function properly if cookies are not enabled.
+In addition, the MyOpenMath Services may use third party analytics and bug tracking software (including, without limitation, NewRelic) to collect further Usage Data regarding the online usage patterns of our users and bugs in our Services.
 We may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user.
 Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time.
 We do not permit third party advertising networks or other third parties to collect information about your browsing behavior from our website for advertising purposes.
@@ -53,28 +49,28 @@ We do not permit third party advertising networks or other third parties to coll
 <h2 id="use-of-information">2. Use of Your Information</h2>
 
 a. *Use*.
-We use your Personal Data and Usage Data (together, “**User Information**”) to operate, maintain, and provide to you the features and functionality of the Desmos Services and for related business purposes.
-We may use your User Information to (a) improve the quality and design of the Desmos Services and to create new features and services by storing, tracking, and analyzing user preferences; (b) remember information so that you will not have to re-enter it during your visit or the next time you use the Desmos Services; (c) provide custom, personalized content and information; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) diagnose and fix technology problems and otherwise plan for and enhance our Service.
-Desmos may provide personalized content and information to our users, including teachers, school administration officials, and other users associated with Schools. However, Desmos shall never use Student Data to engage in targeted advertising, nor shall Desmos direct advertising to student users on student.desmos.com, nor shall Desmos ever use any third-party advertising network on any Desmos Service.
+We use your Personal Data and Usage Data (together, “**User Information**”) to operate, maintain, and provide to you the features and functionality of the MyOpenMath Services and for related business purposes.
+We may use your User Information to (a) improve the quality and design of the MyOpenMath Services and to create new features and services by storing, tracking, and analyzing user preferences; (b) remember information so that you will not have to re-enter it during your visit or the next time you use the MyOpenMath Services; (c) provide custom, personalized content and information; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) diagnose and fix technology problems and otherwise plan for and enhance our Service.
+MyOpenMath may provide personalized content and information to teachers, school administration officials, and other users associated with Schools. However, MyOpenMath shall never use Student Data to engage in targeted advertising, nor shall MyOpenMath direct advertising to student users, nor shall MyOpenMath ever use any third-party advertising network on any MyOpenMath Service.
 
 b. *Communications Preferences*.
 We will not use your email address or other Personally Identifiable Information to send you marketing messages unless you provide your consent, or as part of a specific program or feature for which you will have the ability to opt-out.
-You can always opt-out of receiving promotional email from us by clicking on the “unsubscribe” feature at the bottom of each email or by adjusting your email subscription preferences in your settings.
-We may, however, use your email address without further consent for non-marketing or administrative purposes, such as notifying you of important Desmos Services changes or for customer service purposes.
+You can always opt-out of receiving notification emails from us by clicking on the “unsubscribe” feature at the bottom of each email or by adjusting your email notification preferences in your settings.
+We may, however, use your email address without further consent for non-marketing or administrative purposes, such as notifying you of important MyOpenMath Services changes or for customer service purposes.
 
 <h2 id="disclosure-of-info">3. Disclosure of Your Information</h2>
 
 a. *Your Publication*.
-You may, by using applicable sections of the Desmos Services (including sections which enable you to create graphs, perform lessons, provide comments, upload video and pictures), share your User Information, including Personally Identifiable Information and other content that you create or post to others accessing the Desmos Services.
+You may, by using applicable sections of the MyOpenMath Services (including sections for teachers which enable you to create questions, create question libraries, share courses, and post to support forums), share your User Information, including Personally Identifiable Information and other content that you create or post to others accessing the MyOpenMath Services.
 Please see the [Student Data Privacy Statement](/studentdata) to learn how Student Data may be shared.
 
 b. *Service Providers*.
-We share User Information with our trusted third party service providers and other individuals who perform services on our behalf, for example, providing customer service support, hosting services, analytics and other services we utilize to help us provide our Service or conduct our business.
-These service providers access and use User Information only to provide services to Desmos under reasonable confidentiality terms.
+We share User Information with our trusted third party service providers and other individuals who perform services on our behalf, for example, providing hosting services, analytics, and other services we utilize to help us provide our Service or conduct our business.
+These service providers access and use User Information only to provide services to MyOpenMath under reasonable confidentiality terms.
 
-c. *Partners*.
-At your direction, we may provide your User Information to our partners (“**Partners**”) that are integrated with the Desmos Network.
-For example, we may share certain User Information when you login to the Desmos Services using Google login and similar authentication tools.
+c. *Partners*.  **TODO: delete this section?**
+At your direction, we may provide your User Information to our partners (“**Partners**”) that are integrated with the MyOpenMath Network.
+For example, we may share certain User Information when you login to the MyOpenMath Services using Google login and similar authentication tools.
 We may also share User Information when we provide the Service with a Partner, such as when we work with a school or educational institution to provide the Service to students.
 Please see our [Student Data Privacy Statement](/studentdata) to learn more about how student data may be shared.
 User Information that is shared with a third party Partner may be subject to that Partner's privacy and data security policies.
@@ -82,26 +78,24 @@ We are not responsible for the content or privacy and security practices and pol
 We encourage you to learn about our Partners' privacy and security policies before providing them with your User Information or directing us to provide them with your User Information.
 
 d. *Other Required Sharing*.
-We may share User Information: (i) if required to do so by law, or in the good-faith belief that such action is in compliance with state and federal laws (including, without limitation, copyright laws) or in response to a court order, subpoena, legal process or search warrant, or (ii) if we believe, in good faith, such action is appropriate or necessary to enforce our Terms of Service, to exercise our legal rights, to take precautions against liability, to investigate and defend ourselves against any claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Desmos Services, and to protect the rights, property, or personal safety of Desmos, Education Providers, our users or third parties.
+We may share User Information: (i) if required to do so by law, or in the good-faith belief that such action is in compliance with state and federal laws (including, without limitation, copyright laws) or in response to a court order, subpoena, legal process or search warrant, or (ii) if we believe, in good faith, such action is appropriate or necessary to enforce our Terms of Service, to exercise our legal rights, to take precautions against liability, to investigate and defend ourselves against any claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the MyOpenMath Services, and to protect the rights, property, or personal safety of MyOpenMath, Education Providers, our users or third parties.
 
-e. *School Collaboration*.
-For Schools utilizing our School Collaboration functionality, school administration officials and teachers (collectively, "Admins") may be able to share information, resources, and materials through the School Collaboration Features.
-Depending on School’s use of various features of the Service, an Admin may be able to share information with other Admins and/or invite other Admins to access, review, and edit School material.
-Sharing functionality will be determined by the School settings.
+e. *School Administrators*.
+For Schools utilizing our School Administrator functionality, school administration officials ("Admins") may be able to view User Information for students and teachers at their school, and may be able to modify User Content created by students and teachers at their school.
 
 f. *Sharing of Student Work*.
-In some instances, Student Data, including, for example, student's response to a prompt, (collectively, "Student Work") may be visible to other students in the same classroom. A teacher or school administration official will be able to monitor any such Student Work and will be able to hide it at their discretion, for example if said Student Work is in violation of a school's policies or the teacher's desired classroom culture.
+In some instances, Student Data, including, for example, student's posts in a course forum, (collectively, "Student Work") may be visible to other students in the same classroom. A teacher or school administration official will be able to monitor any such Student Work and will be able to delete it at their discretion, for example if said Student Work is in violation of a school's policies or the teacher's desired classroom culture.
 
 g. *Merger or Sale*.
-If we merge, sell, or otherwise transfer all or a portion of our business, we will not transfer your Personally Identifiable Information without first giving you the ability to opt-out of the transfer, unless the new owner intends to maintain and provide the applicable Desmos Services as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own.
+If we merge, sell, or otherwise transfer all or a portion of our business, we will not transfer your Personally Identifiable Information without first giving you the ability to opt-out of the transfer, unless the new owner intends to maintain and provide the applicable MyOpenMath Services as a going concern, and provided that the new owner has agreed to data privacy standards no less stringent than our own.
 We may also transfer personal information &ndash; under the same conditions &ndash; in the course of mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of our business.
 
 <h2 id="choices">4. Your Choices</h2>
 
-You may decline to submit Personally Identifiable Information through the Desmos Services, in which case Desmos or your School may not be able to provide certain Desmos Services to you.
+You may decline to submit Personally Identifiable Information through the MyOpenMath Services, in which case MyOpenMath or your School may not be able to provide certain MyOpenMath Services to you.
 You may update or correct your name, email address, or password at any time by visiting your “Account Settings” link.
-You may also delete your account altogether there. With respect to User Information provided by your School, please reach out to your School to request removal or updates of such information.
-If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [support@desmos.com](mailto:support@desmos.com).
+With respect to User Information provided by your School, please reach out to your School to request removal or updates of such information.
+If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [support@MyOpenMath.com](mailto:support@MyOpenMath.com).
 We may not be able to modify or delete your information in all circumstances.
 
 <h2 id="data-security">5. Data Security</h2>
@@ -109,13 +103,12 @@ We may not be able to modify or delete your information in all circumstances.
 We care about the security of your information and employ physical, administrative, and technological safeguards designed to preserve the integrity and security of all information collected through our Service.
 Access to information is limited (through user/password credentials and, in some cases, two factor authentication) to those employees who require it to perform their job functions.
 We use industry standard SSL (secure socket layer technology) encryption to transfer personal information.
-Other security safeguards include but are not limited to data encryption, firewalls, physical access controls to buildings and files, and employee training.
 You can help protect against unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
 <h2 id="childrens-privacy">6. Children’s Privacy</h2>
 
-Our Service is not directed to children under 13, unless and until a School has provided consent and authorization for a student under 13 to use the Service and for Desmos to collect information from such student.
-If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@desmos.com](support@desmos.com) and we will promptly delete the child's Personal Data from our systems.
+Our Service is not directed to children under 13, unless and until a School has provided consent and authorization for a student under 13 to use the Service and for MyOpenMath to collect information from such student.
+If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@MyOpenMath.com](support@MyOpenMath.com) and we will promptly delete the child's Personal Data from our systems.
 
 <h2 id="international">7. For Our International Users</h2>
 
@@ -127,21 +120,16 @@ You understand that your personal information will be subject to the laws of the
 Please feel free to contact us with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices as follows:
 
 <pre>
-Desmos, Inc.
+MyOpenMath.
 ATTN: Privacy Agent
-1488 Howard St.
-San Francisco, CA 94103
-Email: support@desmos.com
+Email: support@MyOpenMath.com
 </pre>
 
 <h2 id="changes-and-updates">9. Changes and Updates</h2>
 
 a. *Updates*.
 This Privacy Policy may be revised periodically and this will be reflected in the “date last modified” set forth below.
-Your continued use of the Desmos Services following such update constitutes your agreement to the revised Privacy Policy.
-You can see the history of the changes to this Privacy Policy [here](https://github.com/desmosinc/policies).
+Your continued use of the MyOpenMath Services following such update constitutes your agreement to the revised Privacy Policy.
+You can see the history of the changes to this Privacy Policy [here](https://github.com/MyOpenMathinc/policies).
 
-b. *Last Modified*. This Privacy Policy was last modified July 19, 2017.
-
-
-
+b. *Last Modified*. This Privacy Policy was last modified December 21, 2019.
