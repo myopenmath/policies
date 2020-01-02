@@ -3,8 +3,8 @@
 Thank you for your interest in using the online services operated by MyOpenMath. ("**MyOpenMath**").
 These Terms of Service ("**Terms**") govern your use of MyOpenMath's online services (collectively, the "**Services**"), including the services which are offered through
 (i) self-study courses, and
-(ii) courses offered schools, school districts, or teachers (collectively referred to as "**Schools**")
-that use our services via (a) direct login, or (b) LTI integration.
+(ii) courses offered by schools, school districts, or teachers (collectively referred to as "**Schools**")
+that use our services via (a) direct login, or (b) Learning Tools Interoperability (LTI) integration from a Learning Management System.
 
 Click on the links below to jump to that subsection of these Terms.
 
@@ -21,7 +21,7 @@ Click on the links below to jump to that subsection of these Terms.
 11. [Fees](#fees)
 12. [Passwords and Security](#security)
 13. [Third Party Services](#third-party)
-14. [**Disclaimer and Limitation of Liability**](#disclaimer)
+14. [Disclaimer and Limitation of Liability](#disclaimer)
 15. [Indemnification](#indemnification)
 16. [Intellectual Property](#intellectual-property)
 17. [Miscellaneous](#miscellaneous)
@@ -31,9 +31,8 @@ Click on the links below to jump to that subsection of these Terms.
 <h2 id="services">1. Our Services</h2>
 
 MyOpenMath provides algorithmic online homework with autograding of numeric,
-algebraic, and graphing answers. It also provides some LMS-style features, such
-as messaging, discussion forums, file and text info posting, a gradebook,
-and a calendar.
+algebraic, and graphing answers. It also provides some Learning Management features, such
+as messaging, discussion forums, file posting, a gradebook, and a calendar.
 
 By using the MyOpenMath Services, you agree to be bound by these Terms and to the collection and use of your information as described in our [Privacy Policy](/privacy).
 If you do not agree to these Terms, you are not permitted to use the MyOpenMath Services.
@@ -47,14 +46,14 @@ If you are agreeing to these Terms on behalf of a school, school district, or ot
 and/or complete assignments via the MyOpenMath Service you represent and warrant that you are an authorized representative of the School and you agree to these Terms on the School's behalf.
 
 The U.S. Children's Online Privacy and Protection Act (“COPPA”) requires that online service providers obtain verifiable parental consent before collecting personal information from children under 13.
-If you are a School providing the Service to children under 13 (whether in the U.S. or elsewhere), you represent and warrant that you have received consent from Parents, or have the authority to provide consent on behalf of parents, for us to collect information from students before allowing children under 13 to access MyOpenMath Services.
+If you are a School providing the Service to children under 13 (whether in the U.S. or elsewhere), you represent and warrant that you have received consent from parents, or have the authority to provide consent on behalf of parents, for us to collect information from students before allowing children under 13 to access MyOpenMath Services.
 We recommend that all Schools provide appropriate disclosures to students and parents regarding their use of service providers such as MyOpenMath.  
 
 Users under the age of 13 are not permitted to use the self-study courses on MyOpenMath.
 
 <h2 id="personal-information">3. Personal Information and Student Data</h2>
 
-This Section 3 applies to a School's use of the MyOpenMath Service.
+This Section 3 applies to a School's use of the MyOpenMath Services.
 If you are a School user, Student, or parent, you may also refer to the [Student Data Privacy Statement](/studentdata).
 
 When MyOpenMath is used by a School for an educational purpose,
@@ -65,52 +64,52 @@ MyOpenMath may collect or have access to Student Data that is provided by the Sc
 MyOpenMath agrees to treat Student Data as confidential and not to share it with third parties other than as described in these Terms, and in our [Privacy Policy](/privacy) and [Student Data Privacy Statement](/studentdata).
 
 *Student Data Access*.
-You authorize MyOpenMath to access or collect Student Data for the purpose of providing the Service.
-In the U.S., MyOpenMath shall collect and process Student Data as a School Official with a legitimate educational interest pursuant to FERPA 34 CFR Part 99.31(a)(1).
-As between the parties, the School or the Student owns and controls the Student Data.
+You authorize MyOpenMath to access or collect Student Data for the purpose of providing the Services.
+In the U.S., MyOpenMath collects and processes Student Data as a School Official with a legitimate educational interest pursuant to FERPA 34 CFR Part 99.31(a)(1).
+The School or the Student owns and controls the Student Data.
 MyOpenMath does not own or control, or license such Student Data, except as to provide
-the Service and as described in these Terms.
+the Services and as described in these Terms.
 
-*Personal Information and Student Data Consents and Authority*.
+*Personal Information and Authority & Consent to collect Student Data*.
 If you are School User, you represent and warrant that you have provided appropriate
-disclosures to your School and to parents (if relevant) regarding your sharing such
+disclosures to your School and to parents (if relevant) regarding your sharing
 Personal Information with MyOpenMath.
-Both Parties agree to uphold their obligations under the Family Educational Rights and Privacy Act (“FERPA”), the Protection of Pupil Rights Amendment ("PPRA"), and the Children's Online Privacy and Protection Act (“COPPA”) and applicable State laws relating to student data privacy.
+Both Parties agree to uphold their obligations FERPA, the Protection of Pupil Rights Amendment ("PPRA"), and COPPA and applicable State laws relating to student data privacy.
 MyOpenMath relies on each School to obtain and provide appropriate consent and disclosures, if necessary, for MyOpenMath to collect any Student Data, including the collection of Student Data directly from students under 13, as permitted under COPPA.
-We recommend that you provide a copy of the MyOpenMath [Student Data Privacy Statement](/studentdata) to Parents.
+We recommend that you provide a copy of the MyOpenMath [Student Data Privacy Statement](/studentdata) to parents.
 You agree to comply with these Terms and all laws and regulations governing the protection of personal information, including children's information, and the sharing of student education records.
 
 *Use of Student Data*.
 By submitting or providing us access to Student Data, you agree that MyOpenMath may use the Student Data solely for the purposes of (i) providing the Service, (ii) improving and developing our Service, (iii) enforcing our rights under these Terms, and (iv) as permitted with the School's or the User's consent.
-**MyOpenMath shall not use Student Data to engage in targeted advertising.**
+**MyOpenMath does not use Student Data to engage in advertising.**
 
 *Use of Anonymized Student Data*.
 You agree that we may collect and use data derived from Student Data for our own purposes, such as for product development, research analytics, and marketing our Service, provided that such data will be de-identified and/or aggregated to reasonably avoid identification of a specific individual.
 
 *Use of Personal Information for Marketing*.
 You agree that MyOpenMath may provide customized content, advertising, and commercial messaging to school or district administrative users and teachers from time to time, provided that such advertisements shall not be based on Student Data.
-For emphasis, and without limitation, MyOpenMath shall never use Student Data to engage in targeted advertising, nor shall MyOpenMath direct advertising to student users.
+For emphasis, MyOpenMath will never use Student Data to engage in targeted advertising, nor will MyOpenMath direct advertising to student users.
 
 *Third-Party Service Providers*.
-You acknowledge and agree that MyOpenMath may provide access to Student Data to our employees and service providers, which have a legitimate need to access such information in order to provide their services to us.
+You acknowledge and agree that MyOpenMath may provide access to Student Data to our employees and service providers, who have a legitimate need to access such information in order to provide their services to us.
 We and our employees, affiliates, service providers, or agents involved in the handling, transmittal, and processing of Student Data will be required to maintain the confidentiality of such data.
 
 *Student Data Retention and Deletion Requests*.
-Schools will have the ability to delete Student Data within the system.  
+Schools (via teachers and School administrative users) will have the ability to delete Student Data for enrolled students using functionality within the system.
 If Schools do not have the necessary access (for example, if an instructor leaves the school),
 Schools may request that we delete Student Data in our possession at any time by providing such a request in writing.
 We shall respond to the deletion request as soon as possible, but in most instances within 45 days, other than for data stored on backups which shall be deleted in the ordinary course of business.
-For inactive accounts, we delete or de-identify Student Data in our possession after a period of dormancy or at the request of the Student or Parent.
-A Parent seeking to modify, correct, or delete personal information in a Student Account that is connected to an active School account will be instructed to contact the School to discuss data deletion or modification.
+For inactive accounts, we delete or de-identify Student Data in our possession after a period of dormancy or at the request of the Student or parent.
+A parent seeking to modify, correct, or delete personal information in a Student Account that is connected to an active School account will be instructed to contact the School to discuss data deletion or modification.
 We are not required to delete data that has been derived from Student Data so long as it has been anonymized such that it does not reasonably identify an individual.
 Similarly, we are not required to delete information which a Student or parent has saved or transferred to a personal account.
 
 *Data Breach Notification*.
 We have implemented administrative, physical and technical safeguards designed to secure Personal Information, including Student Data, from unauthorized access, disclosure and use.
-In the event we have a reasonable, good faith belief that an unauthorized party has gained access to or been disclosed Student Data (a “**Security Event**”), that we have collected or received through the Service, we will promptly notify the School by making a posting in the MyOpenMath Support Course forums.
+In the event we have a reasonable, good faith belief that an unauthorized party has gained access to or been disclosed Student Data (a “**Security Event**”), that we have collected or received through the Services, we will promptly notify the School by making a posting in the MyOpenMath Support Course forums. You can also receive notices by email by joining our [https://groups.google.com/a/myopenmath.org/forum/#!forum/notices](Notices Google Group).
 If, due to a Security Event which is caused by the acts or omissions of MyOpenMath or its agents, a notification to an individual, organization or government agency is required under applicable privacy laws, the School shall be responsible for the timing, content, and method of any such legally-required notice.
-With respect to any Security Event which is not caused by the acts or omissions of MyOpenMath or its agents, MyOpenMath shall reasonably cooperate with School's investigation of the Security Event, as School requests, at School's reasonable expense.
-MyOpenMath shall be responsible for the timing, content, cost and method of notice and compliance with such laws as they relate to User accounts that are not associated with a School account.
+For any Security Event which is not caused by the acts or omissions of MyOpenMath or its agents, MyOpenMath shall reasonably cooperate with School's investigation of the Security Event, as School requests, at School's reasonable expense.
+MyOpenMath will be responsible for the timing, content, cost and method of notice and compliance with such laws as they relate to User accounts that are not associated with a School account.
 
 <h2 id="responsibilities">4. Your Responsibilities</h2>
 
@@ -120,17 +119,17 @@ a. that you are responsible for obtaining and maintaining all equipment and serv
 
 b. not to use the MyOpenMath Services to:
 
-> i. violate any third party rights or any local, state, national, or international law or regulation;
+  i. violate any third party rights or any local, state, national, or international law or regulation;
 
-> ii. transmit or create any materials that are abusive, harassing, tortious, defamatory, libelous, or invasive of another's privacy;
+  ii. transmit or create any materials that are abusive, harassing, tortious, defamatory, libelous, or invasive of another's privacy;
 
-> iii. transmit any material that contains adware, malware, spyware, software viruses, or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;
+  iii. transmit any material that contains adware, malware, spyware, software viruses, or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;
 
-> iv. impersonate any person or entity, or otherwise misrepresent your affiliation with a person or entity; or
+  iv. impersonate any person or entity, or otherwise misrepresent your affiliation with a person or entity; or
 
-> v. interfere with or disrupt the MyOpenMath Services or servers or networks connected to the MyOpenMath Services, or disobey any requirements, procedures, policies, or regulations of networks connected to the MyOpenMath Services.
+  v. interfere with or disrupt the MyOpenMath Services or servers or networks connected to the MyOpenMath Services, or disobey any requirements, procedures, policies, or regulations of networks connected to the MyOpenMath Services.
 
-> vi. share any copyrighted materials that you do not have written permission to share.
+  vi. share any copyrighted materials that you do not have written permission to share.
 
 <h2 id="use">5. Personal, Non-Commercial Use Only</h2>
 
@@ -142,14 +141,14 @@ You may not use or access MyOpenMath for any commercial purpose, including using
 
 MyOpenMath does not claim ownership of any materials (other than the underlying software and other materials of MyOpenMath and its licensors used to generate such materials), lessons, questions, assessments,
 files, information, data, text, or other materials you submit and create for display or distribution to others through the MyOpenMath Services (collectively, “**User Submissions and Generated Materials**”).
-As between MyOpenMath and you, you own all rights to your User Submissions and Generated Materials.
+You own all rights to your User Submissions and Generated Materials.
 You grant to MyOpenMath an irrevocable, perpetual, non-exclusive, fully-paid, worldwide license, with the right to sublicense through multiple tiers, to use, distribute, reproduce, modify, adapt, publish, translate, publicly perform, and publicly display or otherwise use your User Submissions and Generated Materials (in whole or in part) in connection with the operation of the Service or the promotion, advertising or marketing thereof, in any format or medium now known or later developed, without compensation or notification to or permission from the user of any kind.
-You acknowledge and agree that all right and title in the software code and other material used to create or display your User Submissions and Generated Materials is the property of MyOpenMath, and you hereby assign all right and title in such material to MyOpenMath.
+You acknowledge and agree that all right and title in the software code and other material used to create or display your User Submissions and Generated Materials is the property of MyOpenMath.
 MyOpenMath hereby grants you a license to such material (a) as an end user, for your personal, non-commercial use or (b) as a teacher, for academic use by you and your students in individual classes.
 MyOpenMath does not pre-screen User Submissions and Generated Materials and you agree that you are solely responsible for all of your User Submissions and Generated Materials.
 MyOpenMath is not required to host, display, or distribute any User Submissions and Generated Materials, and may remove at any time or refuse any User Submissions and Generated Materials.
 MyOpenMath is not responsible for any loss, theft or damage of any kind to any User Submissions and Generated Materials.
-You represent and warrant that your User Submissions and Generated Materials, and MyOpenMath' authorized use thereof, do not and will not infringe the rights of any third party (including, without limitation, intellectual property rights, rights of privacy or publicity, or any other legal or moral rights).
+You represent and warrant that your User Submissions and Generated Materials, and MyOpenMath's authorized use thereof, do not and will not infringe the rights of any third party (including, without limitation, intellectual property rights, rights of privacy or publicity, or any other legal or moral rights).
 
 <h2 id="schools">7. Special Terms for Schools</h2>
 
@@ -159,13 +158,12 @@ The foregoing will not, however, prohibit MyOpenMath from removing support for a
 
 b. *Content and Question Sharing*.
 If you, as School user, choose to
- (i) make a course available to copy without a key, or
+ (i) make a course available to copy without an enrollment key, or
  (ii) create non-private questions (collectively, “**User-Created Content**”),
 then you expressly authorize MyOpenMath to
  (i) make your User-Created Content available to other School users for use in individual classes with other students,
- (ii) allow other School users to copy and modify your User-Created Content and use the modified version in individual classes with other students,
- (iii) modify your User-Created Content and make the modified version available to other School users for use in individual classes with other students, and
- (iv) make your User-Created Content available to other sites running the same software as MyOpenMath.
+ (ii) modify or allow other School users to copy and modify your User-Created Content and use the modified version in individual classes with other students,and
+ (iii) make your User-Created Content available to other sites running the same software as MyOpenMath.
 
 When creating questions, you can specify the license you wish to apply to the question.  Other
 users are only permitted to use your questions in ways consistent with that license.
@@ -210,7 +208,7 @@ All such terms will be deemed to be a part of (and are hereby incorporated by re
 
 <h2 id="security">12. Password and Security</h2>
 
-You are responsible for maintaining the confidentiality of your MyOpenMath Services password, and you are solely responsible for all activities that occur under your password. You agree to immediately notify MyOpenMath of any unauthorized use of your password or any other breach of security related to the MyOpenMath Services. MyOpenMath may require you to alter your password if MyOpenMath believes that your password is no longer secure.
+You are responsible for maintaining the confidentiality of your MyOpenMath Services login password, and you are solely responsible for all activities that occur under your password. You agree to immediately notify MyOpenMath of any unauthorized use of your password or any other breach of security related to the MyOpenMath Services. MyOpenMath may require you to alter your password if MyOpenMath believes that your password is no longer secure.
 
 <h2 id="third-party">13. Third Party Services</h2>
 
@@ -248,5 +246,7 @@ The failure of MyOpenMath to exercise or enforce any right or provision of these
 <h2 id="modifications">18. Modifications To Terms and Services</h2>
 
 a. *Modifications*. These Terms may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the MyOpenMath Services following such update constitutes your agreement to the revised Terms.  You can see the history of the changes to our Terms [here](https://github.com/MyOpenMath/policies).  If you object to any such changes, your sole recourse will be to cease using the MyOpenMath Services. Continued use of the MyOpenMath Services following notice of any such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. MyOpenMath reserves the right to modify or discontinue the MyOpenMath Services with or without notice to you.
+
+You can sign up to receive notices of upcoming changes to this and other policies by joining our [https://groups.google.com/a/myopenmath.org/forum/#!forum/notices](Notices Google Group).
 
 b. *Date Last Modified*. These Terms were last modified on December 21, 2019.
