@@ -119,7 +119,7 @@ a. that you are responsible for obtaining and maintaining all equipment and serv
 
 b. not to use the MyOpenMath Services to:
 
-  i. violate any third party rights or any local, state, national, or international law or regulation;
+  i. violate any third party rights or any local, state, national, or international law or regulation.  This would include sharing copyrighted materials that you do not have written permission to share;
 
   ii. transmit or create any materials that are abusive, harassing, tortious, defamatory, libelous, or invasive of another's privacy;
 
@@ -129,22 +129,25 @@ b. not to use the MyOpenMath Services to:
 
   v. interfere with or disrupt the MyOpenMath Services or servers or networks connected to the MyOpenMath Services, or disobey any requirements, procedures, policies, or regulations of networks connected to the MyOpenMath Services.
 
-  vi. share any copyrighted materials that you do not have written permission to share.
+c. to not provide un-authorized individuals access to a MyOpenMath course.  This includes:
+  i.  not sharing the course enrollment key with someone not enrolled in the course at the School leading the course.
+  ii. not sharing your username and password with anyone.
+
 
 <h2 id="use">5. Personal, Non-Commercial Use Only</h2>
 
-You agree to use the MyOpenMath Services only (a) as an end user, for your personal, non-commercial use or (b) as a teacher, for academic use by you and your students in individual classes.
+You agree to use the MyOpenMath Services only (a) as a self-study student, for your personal non-commercial use or (b) as a student, teacher, or school administrator, for academic use in individual classes at an accredited school.  You may not use or access MyOpenMath for any commercial purpose, including but not limited to providing paid support services.
 
-You may not use or access MyOpenMath for any commercial purpose, including using or accessing the site for the purpose of providing paid support to other users. You may not promote MyOpenMath in a way that implies that you control or own the site.
+MyOpenMath does, pursuant to a separate written agreement, permit certain third parties to integrate programmatically with the MyOpenMath Services for commercial use. Please contact sales@myopenmath.org for more information.
 
 <h2 id="user-submissions">6. User Submissions and Generated Materials</h2>
 
 MyOpenMath does not claim ownership of any materials (other than the underlying software and other materials of MyOpenMath and its licensors used to generate such materials), lessons, questions, assessments,
 files, information, data, text, or other materials you submit and create for display or distribution to others through the MyOpenMath Services (collectively, “**User Submissions and Generated Materials**”).
 You own all rights to your User Submissions and Generated Materials.
-You grant to MyOpenMath an irrevocable, perpetual, non-exclusive, fully-paid, worldwide license, with the right to sublicense through multiple tiers, to use, distribute, reproduce, modify, adapt, publish, translate, publicly perform, and publicly display or otherwise use your User Submissions and Generated Materials (in whole or in part) in connection with the operation of the Service or the promotion, advertising or marketing thereof, in any format or medium now known or later developed, without compensation or notification to or permission from the user of any kind.
-You acknowledge and agree that all right and title in the software code and other material used to create or display your User Submissions and Generated Materials is the property of MyOpenMath.
-MyOpenMath hereby grants you a license to such material (a) as an end user, for your personal, non-commercial use or (b) as a teacher, for academic use by you and your students in individual classes.
+
+You grant to MyOpenMath an irrevocable, perpetual, non-exclusive, fully-paid, worldwide license, to use your User Submissions and Generated Materials (in whole or in part) in connection with the operation of the Service, in any format or medium now known or later developed, without compensation or notification to or permission from the user of any kind.
+
 MyOpenMath does not pre-screen User Submissions and Generated Materials and you agree that you are solely responsible for all of your User Submissions and Generated Materials.
 MyOpenMath is not required to host, display, or distribute any User Submissions and Generated Materials, and may remove at any time or refuse any User Submissions and Generated Materials.
 MyOpenMath is not responsible for any loss, theft or damage of any kind to any User Submissions and Generated Materials.
@@ -153,17 +156,17 @@ You represent and warrant that your User Submissions and Generated Materials, an
 <h2 id="schools">7. Special Terms for Schools</h2>
 
 a. *Fees*.
-If MyOpenMath makes any MyOpenMath Service available without charging a fee, then MyOpenMath will not thereafter charge a fee to use such existing MyOpenMath Service.
-The foregoing will not, however, prohibit MyOpenMath from removing support for any MyOpenMath Service or from charging a fee for any new MyOpenMath Services that are complementary to, or may be used together with, such existing MyOpenMath Service.
+MyOpenMath will never charge for student use or standard instructor use of MyOpenMath.
+MyOpenMath may charge fees for complementary services such as administrative features, service level agreements, or training services.
 
 b. *Content and Question Sharing*.
 If you, as School user, choose to
  (i) make a course available to copy without an enrollment key, or
- (ii) create non-private questions (collectively, “**User-Created Content**”),
-then you expressly authorize MyOpenMath to
- (i) make your User-Created Content available to other School users for use in individual classes with other students,
- (ii) modify or allow other School users to copy and modify your User-Created Content and use the modified version in individual classes with other students,and
- (iii) make your User-Created Content available to other sites running the same software as MyOpenMath.
+ (ii) create non-private questions (collectively, “**User-Shared Content**”),
+then you expressly authorize MyOpenMath to, without compensation or notification,
+ (i) make your User-Shared Content available to other School users for use in individual classes with other students,
+ (ii) modify or allow other School users to copy and modify your User-Shared Content and use the modified version in individual classes with other students, and
+ (iii) make your User-Shared Content available to other sites running the same software as MyOpenMath.
 
 When creating questions, you can specify the license you wish to apply to the question.  Other
 users are only permitted to use your questions in ways consistent with that license.
@@ -229,8 +232,7 @@ d. *Exclusions And Limitations*. Some jurisdictions do not allow the exclusion o
 You agree to indemnify, defend, and hold harmless MyOpenMath and its officers, directors, employees, volunteers, consultants and agents from and against any and all claims, liabilities, damages, losses, costs, expenses, fees (including reasonable attorneys' fees) that such parties may incur as a result of or arising from your (or anyone using your account's) violation of these Terms. MyOpenMath reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with MyOpenMath' defense of such claim.
 
 <h2 id="intellectual-property">16. Intellectual Property</h2>
-**TODO: maybe delete this section?**
-“MyOpenMath” and the MyOpenMath logo, and certain other of the names, logos, and materials displayed in the MyOpenMath Services, may constitute trademarks, trade names, or service marks (“**Marks**”) of MyOpenMath or other entities. You are not authorized to use any such Marks. Ownership of all such Marks and the goodwill associated therewith remains with MyOpenMath or those other entities. The content on the MyOpenMath Services (the “**Content**”), including without limitation, the software, graphs, text and graphics, is protected under United States and international copyright laws, is subject to other intellectual property and proprietary rights and laws, and is owned by MyOpenMath or its licensors. Other than with respect to your own User Submissions and Generated Materials, (a) the Content may not be copied, modified, reproduced, republished, posted, transmitted, sold, offered for sale, or redistributed in any way without the prior written permission of MyOpenMath and its applicable licensors; and (b) you must abide by all copyright notices, information, or restrictions contained in or attached to any Content.
+“MyOpenMath” and the MyOpenMath logo, and certain other of the names, logos, and materials displayed in the MyOpenMath Services, may constitute trademarks, trade names, or service marks (“**Marks**”) of MyOpenMath or other entities. You are not authorized to use any such Marks. Ownership of all such Marks and the goodwill associated therewith remains with MyOpenMath or those other entities.
 
 <h2 id="miscellaneous">17. Miscellaneous</h2>
 
