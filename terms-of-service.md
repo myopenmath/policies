@@ -174,6 +174,14 @@ users are only permitted to use your questions in ways consistent with that lice
 When sharing courses, if you wish to apply a specific license to your course, you should do
 so by adding a license statement as a text item in the course itself.
 
+c. *Group Administrator Responsibilities*.
+If you have a Group Administrator account, you agree to:
+ (i) only access the course or student data of another instructor when there is 
+  a legitimate institutional need.
+ (ii) only modify another instructor's course, questions, or student data with
+  the instructor's express permission, or with the permission of the teacher's
+  supervisor.
+
 <h2 id="copyright">8. Copyright Infringement</h2>
 
 MyOpenMath respects the intellectual property rights of others. Accordingly, MyOpenMath has a policy of removing User Submissions and Generated Materials that violate copyright law, and, in appropriate circumstances, suspending access to the MyOpenMath Services (or any portion thereof) to any user who uses the MyOpenMath Services in violation of copyright law, and/or terminating the account of any user who uses the MyOpenMath Services in violation of copyright law. Pursuant to Title 17 of the United States Code, Section 512, MyOpenMath has implemented procedures for receiving written notification of claimed copyright infringement and for processing such claims in accordance with such law. If you believe your copyright is being infringed by a user of the MyOpenMath Services, please provide written notice to the following MyOpenMath agent for notice of claims of copyright infringement.
