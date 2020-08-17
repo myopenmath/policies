@@ -12,7 +12,7 @@ Click on the links below to jump to that subsection of these Terms.
 2. [Eligibility and Authority](#eligibility)
 3. [Personal Information and Student Data](#personal-information)
 4. [Your Responsibilities](#responsibilities)
-5. [Personal, Non-Commercial Use Only](#use)
+5. [Personal, Non-Commercial and Academic Use Only](#use)
 6. [User Submissions and Generated Materials](#user-submissions)
 7. [Special Terms for Schools](#schools)
 8. [Copyright Infringement](#copyright)
@@ -134,7 +134,7 @@ c. to not provide un-authorized individuals access to a MyOpenMath course.  This
   ii. not sharing your username and password with anyone.
 
 
-<h2 id="use">5. Personal, Non-Commercial Use Only</h2>
+<h2 id="use">5. Personal, Non-Commercial and Academic Use Only Use Only</h2>
 
 You agree to use the MyOpenMath Services only (a) as a self-study student, for your personal non-commercial use or (b) as a student, teacher, or school administrator, for academic use in individual classes at an accredited school.  You may not use or access MyOpenMath for any commercial purpose, including but not limited to providing paid support services.
 
@@ -176,7 +176,7 @@ so by adding a license statement as a text item in the course itself.
 
 c. *Group Administrator Responsibilities*.
 If you have a Group Administrator account, you agree to:
- (i) only access the course or student data of another instructor when there is 
+ (i) only access the course or student data of another instructor when there is
   a legitimate institutional need.
  (ii) only modify another instructor's course, questions, or student data with
   the instructor's express permission, or with the permission of the teacher's
@@ -259,4 +259,4 @@ a. *Modifications*. These Terms may be revised periodically and this will be ref
 
 You can sign up to receive notices of upcoming changes to this and other policies by joining our [https://groups.google.com/a/myopenmath.org/forum/#!forum/notices](Notices Google Group).
 
-b. *Date Last Modified*. These Terms were last modified on December 21, 2019.
+b. *Date Last Modified*. These Terms were last modified on March 29, 2020.

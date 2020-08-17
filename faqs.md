@@ -1,9 +1,13 @@
 # Privacy and Student Data FAQs
 
-MyOpenMath's Services are designed for use by higher-ed students, K-12 students, teachers, and professors.
+MyOpenMath's Services (including MyOpenMath.com and WAMAP.org) are designed for use by higher-ed students, K-12 students, teachers, and professors.
 
 The goal of this page is to respond to frequently asked questions about our policies regarding privacy, student work, advertising, and various regulations like COPPA and FERPA.
 Please note that this is just an overview, and that usage of our services is governed by our [Terms of Service](), our [Privacy Policy](), and our [Student Data Privacy Statement]().
+
+## Q. Why are you changing your policies?
+
+A. A. We are updating our policies to better reflect and clarify our existing committment to the security and privacy of student data.  We are also updating them to reflect the change in structure from MyOpenMath becoming a non-profit organization, and our committment to keeping the service free while opening the door for a future Contributing Partner model.
 
 ## Q. How is your service free? Are you making money from advertising?
 
@@ -70,7 +74,7 @@ We will not necessarily notify you for small changes (e.g. modifications to the 
 However, you can subscribe to notifications from the github repository if you’re interested in being updated on every change. ([Instructions](//help.github.com/articles/watching-repositories/).)
 You can also sign up to receive notices of upcoming changes to this and other policies by joining our [https://groups.google.com/a/myopenmath.org/forum/#!forum/notices](Notices Google Group).
 
-These FAQs were last updated December 22, 2019.
+These FAQs were last updated March 29, 2020.
 
 ## Q. What if I have other questions?
 
