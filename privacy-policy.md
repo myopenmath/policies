@@ -35,14 +35,36 @@ Usage Data includes the information that your web browser automatically sends to
 The Usage Data collected in our logs may include information such as your web request, Internet Protocol (IP) address, operating system, browser type, browser language, referring / exit pages and URLs, platform type, click history, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and whether you opened an email.
 
 Typically, Usage Data is collected through log files, web beacons, browser cookies, or other device identifiers that may uniquely identify your browser or device.
-You may be able to set your web browser to refuse all cookies.
-You may not be able to delete or disable cookies on certain browsers.
-For more information on cookies, visit [www.allaboutcookies.org](//www.allaboutcookies.org).
-Remember, the MyOpenMath Services may not function properly if cookies are not enabled.
 
 In addition, the MyOpenMath Services may use third party analytics and bug tracking software (including, without limitation, NewRelic) to collect further Usage Data regarding the online usage patterns of our users and bugs in our Services. We may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user.
 
 Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time. We do not permit third party advertising networks or other third parties to collect information about your browsing behavior from our website for advertising purposes.
+
+c. *Cookies*
+
+Cookies are small text files that are stored on your computer when you visit a
+website. They allow websites to recognize a user's device and keep you logged in
+or remember your preferences. For more information on cookies, visit [www.allaboutcookies.org](//www.allaboutcookies.org).
+
+All cookies on MyOpenMath are first-party cookies, meaning they are set by MyOpenMath.
+Most are session cookies, meaning they are temporary and expire when you close your browser.  
+There is a strictly necessary cookie used to keep you logged in, as well as preference cookies
+used to remember choices you've made.  Certain features on the site, like adjusting
+MathJax preferences, may set a persistent cookie, meaning it remains on your computer
+until for up to a year or until you erase them or the browser does.
+
+We do not use any third-party cookies, and do not use cookies for advertising.
+
+Only strictly necessary session cookies are set until you log in.  
+Logging into the MyOpenMath services grants consent for us to set preference cookies.
+
+The MyOpenMath Services will not function properly if cookies are not enabled, as
+you won't be able to stay logged in.
+
+When using MyOpenMath integrated with an Learning Management System (LMS), your
+browser will consider MyOpenMath cookies third-party, since they're not being set
+by the LMS website. Because of this, your browser must be set to allow third-party
+cookies if you are using MyOpenMath from inside an LMS.
 
 <h2 id="use-of-information">2. Use of Your Information</h2>
 
@@ -129,7 +151,7 @@ You can see the history of the changes to this Privacy Policy [here](https://git
 
 You can sign up to receive notices of upcoming changes to this and other policies by joining our [https://groups.google.com/a/myopenmath.org/forum/#!forum/notices](Notices Google Group).
 
-b. *Last Modified*. This Privacy Policy was last modified December 21, 2019.
+b. *Last Modified*. This Privacy Policy was last modified Aug 17, 2020.
 
 <h2 id="definitions">10. Definitions</h2>
 
