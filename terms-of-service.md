@@ -191,7 +191,7 @@ For more details and information on accessibility features, see the
   for the accessibility of the platform, and users are responsible for 
   ensuring the content they create or use is accessible.
   If you find an issue with the platform accessibility, please contact support@myopenmath.com.
-  If you find an issue with content accessibility, and instructor should use the "report issue" feature
+  If you find an issue with content accessibility, an instructor should use the "report issue" feature
   in MyOpenMath to notify the creator.
 
 <h2 id="copyright">9. Copyright Infringement</h2>
