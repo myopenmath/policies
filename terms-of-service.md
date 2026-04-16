@@ -15,17 +15,18 @@ Click on the links below to jump to that subsection of these Terms.
 5. [Personal, Non-Commercial and Academic Use Only](#use)
 6. [User Submissions and Generated Materials](#user-submissions)
 7. [Special Terms for Schools](#schools)
-8. [Copyright Infringement](#copyright)
-9. [Feedback](#feedback)
-10. [Termination and Suspension](#termination)
-11. [Fees](#fees)
-12. [Passwords and Security](#security)
-13. [Third Party Services](#third-party)
-14. [Disclaimer and Limitation of Liability](#disclaimer)
-15. [Indemnification](#indemnification)
-16. [Intellectual Property](#intellectual-property)
-17. [Miscellaneous](#miscellaneous)
-18. [Modifications to Terms and Services](#modifications)
+8. [Accessibility](#a11y)
+9. [Copyright Infringement](#copyright)
+10. [Feedback](#feedback)
+11. [Termination and Suspension](#termination)
+12. [Fees](#fees)
+13. [Passwords and Security](#security)
+14. [Third Party Services](#third-party)
+15. [Disclaimer and Limitation of Liability](#disclaimer)
+16. [Indemnification](#indemnification)
+17. [Intellectual Property](#intellectual-property)
+18. [Miscellaneous](#miscellaneous)
+19. [Modifications to Terms and Services](#modifications)
 
 
 <h2 id="services">1. Our Services</h2>
@@ -182,7 +183,15 @@ If you have a Group Administrator account, you agree to:
   the instructor's express permission, or with the permission of the teacher's
   supervisor.
 
-<h2 id="copyright">8. Copyright Infringement</h2>
+<h2 id="a11y">8. Accessibility</h2>
+The MyOpenMath platform conforms to WCAG 2.1 AA accessibility standards. 
+For more details and information on accessibility features, see the 
+  [accessibility documentation](https://docs.google.com/document/d/1vS2LLJSsoW6v9qa3P_ru5dv9NfmNDJGijZtBJp_eGEM/edit?tab=t.0).
+  Note that as a user-created content site, MyOpenMath is only responsible 
+  for the accessibility of the platform, and users are responsible for 
+  ensuring the content they create or use is accessible.
+
+<h2 id="copyright">9. Copyright Infringement</h2>
 
 MyOpenMath respects the intellectual property rights of others. Accordingly, MyOpenMath has a policy of removing User Submissions and Generated Materials that violate copyright law, and, in appropriate circumstances, suspending access to the MyOpenMath Services (or any portion thereof) to any user who uses the MyOpenMath Services in violation of copyright law, and/or terminating the account of any user who uses the MyOpenMath Services in violation of copyright law. Pursuant to Title 17 of the United States Code, Section 512, MyOpenMath has implemented procedures for receiving written notification of claimed copyright infringement and for processing such claims in accordance with such law. If you believe your copyright is being infringed by a user of the MyOpenMath Services, please provide written notice to the following MyOpenMath agent for notice of claims of copyright infringement.
 
@@ -201,15 +210,15 @@ Your written notice must:
  (f) contain a statement that the information in the written notice is accurate; and
  (g) contain a statement, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
 
-<h2 id="feedback">9. Feedback</h2>
+<h2 id="feedback">10. Feedback</h2>
 
 If you choose to provide technical, business or other feedback to MyOpenMath concerning the MyOpenMath Services or any MyOpenMath products or services (collectively, “**Feedback**”), MyOpenMath will be free to use such Feedback without restriction. You understand and agree that the incorporation by MyOpenMath of Feedback into any of its products or services does not grant you any proprietary rights therein.
 
-<h2 id="termination">10. Termination and Suspension</h2>
+<h2 id="termination">11. Termination and Suspension</h2>
 
 Without limiting other remedies, MyOpenMath may terminate or suspend your MyOpenMath Services account or suspend your access to all or part of the MyOpenMath Services without notice if MyOpenMath believes that you have violated these Terms or have engaged in conduct that violates applicable law or is otherwise harmful to the interests of MyOpenMath, any other MyOpenMath Services user, or any third party. You may discontinue your use of the MyOpenMath Services at any time.
 
-<h2 id="fees">11. Fees</h2>
+<h2 id="fees">12. Fees</h2>
 
 Subject to [Section 7.a](#schools) of these Terms, MyOpenMath reserves the right to charge fees for access to new MyOpenMath Services.
 In no event will you be charged for access to any new MyOpenMath Services, unless MyOpenMath obtains your prior agreement to pay such fees.
@@ -217,15 +226,15 @@ If you do not consent to the payment of such fees, however, MyOpenMath may prohi
 Details regarding the services you will receive in exchange for the payment of fees, as well as any payment terms and conditions that apply, will be disclosed to you prior to your agreement to pay such fees.
 All such terms will be deemed to be a part of (and are hereby incorporated by reference into) these Terms.
 
-<h2 id="security">12. Password and Security</h2>
+<h2 id="security">13. Password and Security</h2>
 
 You are responsible for maintaining the confidentiality of your MyOpenMath Services login password, and you are solely responsible for all activities that occur under your password. You agree to immediately notify MyOpenMath of any unauthorized use of your password or any other breach of security related to the MyOpenMath Services. MyOpenMath may require you to alter your password if MyOpenMath believes that your password is no longer secure.
 
-<h2 id="third-party">13. Third Party Services</h2>
+<h2 id="third-party">14. Third Party Services</h2>
 
 MyOpenMath may integrate with or provide links to certain third party Internet sites and services (collectively, such third parties, “**Linked Partners**”). The Linked Partner services made available through the MyOpenMath Services or the integration of the such sites and services with the MyOpenMath Services are for your convenience only and do not signify the endorsement by MyOpenMath of such Partner sites or services.
 
-<h2 id="disclaimer">14. Disclaimer and Limitations of Liability</h2>
+<h2 id="disclaimer">15. Disclaimer and Limitations of Liability</h2>
 
 **a. You agree that use of the MyOpenMath services is at your sole risk. The MyOpenMath services are provided on an “as is” and “as available” basis. MyOpenMath expressly disclaims all warranties of any kind, whether express or implied, with respect to the MyOpenMath services and all services provided by any of our partners, including, but not limited to, the implied warranties of merchantability, fitness for a particular use or purpose, and non-infringement. You acknowledge that access to data and materials (including, but not limited to, your or others' user submissions and generated materials) available through the MyOpenMath services is not guaranteed and that MyOpenMath will not be responsible to you for any loss of data or materials caused by the MyOpenMath services or their unavailability. You understand and agree that any data, materials, services and/or information downloaded or otherwise obtained through the use of the MyOpenMath services is done at your own discretion and risk and that you will be solely responsible for any damage arising therefrom.**
 
@@ -235,14 +244,14 @@ MyOpenMath may integrate with or provide links to certain third party Internet s
 
 d. *Exclusions And Limitations*. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for certain damages. Accordingly, some of the above limitations and disclaimers may not apply to you. To the extent that MyOpenMath may not, as a matter of applicable law, disclaim any implied warranty or limit its liabilities, the scope and duration of such warranty and the extent of MyOpenMath' liability will be the minimum permitted under such applicable law.
 
-<h2 id="indemnification">15. Indemnification</h2>
+<h2 id="indemnification">16. Indemnification</h2>
 
 You agree to indemnify, defend, and hold harmless MyOpenMath and its officers, directors, employees, volunteers, consultants and agents from and against any and all claims, liabilities, damages, losses, costs, expenses, fees (including reasonable attorneys' fees) that such parties may incur as a result of or arising from your (or anyone using your account's) violation of these Terms. MyOpenMath reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with MyOpenMath' defense of such claim.
 
-<h2 id="intellectual-property">16. Intellectual Property</h2>
+<h2 id="intellectual-property">17. Intellectual Property</h2>
 “MyOpenMath” and the MyOpenMath logo, and certain other of the names, logos, and materials displayed in the MyOpenMath Services, may constitute trademarks, trade names, or service marks (“**Marks**”) of MyOpenMath or other entities. You are not authorized to use any such Marks. Ownership of all such Marks and the goodwill associated therewith remains with MyOpenMath or those other entities.
 
-<h2 id="miscellaneous">17. Miscellaneous</h2>
+<h2 id="miscellaneous">18. Miscellaneous</h2>
 
 *Entire Agreement*.
 These Terms and our Privacy Policy, together with any additional terms to which you agree when using particular elements of the MyOpenMath Services (e.g., terms relating to the payment of fees for certain MyOpenMath Services), constitute the entire and exclusive and final statement of the agreement between you and MyOpenMath with respect to the subject matter hereof, and govern your use of the MyOpenMath Services, superseding any prior agreements or negotiations between you and MyOpenMath with respect to the subject matter hereof.
@@ -257,6 +266,6 @@ The failure of MyOpenMath to exercise or enforce any right or provision of these
 
 a. *Modifications*. These Terms may be revised periodically and this will be reflected in the “date last modified” set forth below. Your continued use of the MyOpenMath Services following such update constitutes your agreement to the revised Terms.  You can see the history of the changes to our Terms [here](https://github.com/MyOpenMath/policies).  If you object to any such changes, your sole recourse will be to cease using the MyOpenMath Services. Continued use of the MyOpenMath Services following notice of any such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. MyOpenMath reserves the right to modify or discontinue the MyOpenMath Services with or without notice to you.
 
-You can sign up to receive notices of upcoming changes to this and other policies by joining our [https://groups.google.com/a/myopenmath.org/forum/#!forum/notices](Notices Google Group).
+You can sign up to receive notices of upcoming changes to this and other policies by joining our [Notices Google Group](https://groups.google.com/a/myopenmath.org/forum/#!forum/notices).
 
-b. *Date Last Modified*. These Terms were last modified on March 29, 2020.
+b. *Date Last Modified*. These Terms were last modified on April 15, 2026.
